@@ -4,4 +4,6 @@ public class Cla{
 		int c = a+b;//二期维护
 		return c;
 	}
+
+	public void sleep(){}
 }
